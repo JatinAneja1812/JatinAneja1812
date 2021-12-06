@@ -9,6 +9,6 @@
 
 - 🤔 I’m looking for help with getting internship.
 
-- 💬 Ask me about Java.
+- 💬 Ask me about Java, C#. NetCore FrameWork or SQL.
 
 - ⚡ Fun fact: Huge tech nerd and Fast Learing and Definately a great person to Work with.
